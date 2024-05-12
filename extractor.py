@@ -16,7 +16,7 @@ sys.path.append(str(wd))
 
 st.set_page_config(layout="wide")
 
-from test_gui import Sidebar
+from sidebar import Sidebar
 
 class ExtractorGUI:
 
