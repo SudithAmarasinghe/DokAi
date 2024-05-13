@@ -2,3 +2,4 @@ pdf2image
 pypdf2
 streamlit-aggrid
 pandas
+openpyxl
