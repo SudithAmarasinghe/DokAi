@@ -1,0 +1,26 @@
+{
+  "commercial bank": {
+    "BalanceSheet": {
+      "StateCapital": {
+        "2021": 0,
+        "2022": 0,
+        "2023": 0
+      },
+      "FairValueReserve": {
+        "2021": 0,
+        "2022": "|Reserve",
+        "2023": 0
+      },
+      "RetainedEarnings": {
+        "2021": 0,
+        "2022": "Karnings",
+        "2023": 0
+      },
+      "Total": {
+        "2021": 659490364.0,
+        "2022": 79452983.0,
+        "2023": 2984778.0
+      }
+    }
+  }
+}

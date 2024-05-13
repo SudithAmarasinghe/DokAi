@@ -1,0 +1,18 @@
+# Paths to images and labels
+train: D:/CBC data science/Project 3_Table_to_BSR/Pipeline/V/V01/images/train # Path to training images
+test: D:/CBC data science/Project 3_Table_to_BSR/Pipeline/V/V01/images/test  # Path to validation images (optional)
+val: D:/CBC data science/Project 3_Table_to_BSR/Pipeline/V/V01/images/val
+
+# Class names
+nc: 3  # Number of classes
+names: ['text', 'figure', 'table']  # Class names
+
+# Image size
+imgsz: 640  # Image size for training
+
+# Other hyperparameters (adjust as needed)
+batch_size: 16
+# cfg: yolov8n.yaml  # Model configuration file
+data: OCRdataset.yaml  # Path to this YAML file
+
+

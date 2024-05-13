@@ -1,0 +1,60 @@
+{
+  "commercial bank": {
+    "Total Assets": {
+      "2023": 1272448418.0,
+      "2022": 1226985811.0
+    },
+    "Stated Capital": {
+      "2023": 14000000.0,
+      "2022": 14000000.0
+    },
+    "Fair Value Reserves": {
+      "2023": 1157.0,
+      "2022": 913.0
+    },
+    "Retained Earnings": {
+      "2023": 764894106.0,
+      "2022": 721027212.0
+    },
+    "Total Equity": {
+      "2023": 778895263.0,
+      "2022": 735028125.0
+    },
+    "Employee Benefits": {
+      "2023": 30688690.0,
+      "2022": 25937012.0
+    },
+    "Deferred Tax Liabilities": {
+      "2023": 129328969.0,
+      "2022": 67570076.0
+    },
+    "Lease Liabilities": {
+      "2023": 6739335.0,
+      "2022": 6370650.0
+    },
+    "Interest-bearing Loans And Borrowings": {
+      "2023": 0.0,
+      "2022": 25989957.0
+    },
+    "Current Tax Payable": {
+      "2023": 0.0,
+      "2022": 6066192.0
+    },
+    "Loans Due To Parent Company": {
+      "2023": 90000000.0,
+      "2022": 90000000.0
+    },
+    "Trade And Other Payables": {
+      "2023": 72515023.0,
+      "2022": 29321692.0
+    },
+    "Bank Overdrafts And Other Short-term Liabilities": {
+      "2023": 164281138.0,
+      "2022": 234529811.0
+    },
+    "TotalLiabilities": {
+      "2023": 493553155.0,
+      "2022": 491957686.0
+    }
+  }
+}

@@ -1,0 +1,74 @@
+ For the year ended 31 March,
+	 	 2023
+	 
+ 	 Notes
+	 	 
+ Revenue
+	 	 873,127,669
+	 592,233,433
+
+ Other income
+	 	 45,657,286
+	 23,165,955
+
+ Changes in inventories of finished goods and work-in-progress
+	 	 (12,103,159)
+	 9,051,074
+
+ Raw materials and consumables used
+	 	 (429,768,047)
+	 (277,082,000)
+
+ Employee benefits expenses
+	 9.1
+	 (99,670,483)
+	 (91,139,144)
+
+ Depreciation and amortisation
+	 	 (35,319,692)
+	 (35,354,312)
+
+ Other operating expenses - direct
+	 	 (69,284,098)
+	 (61,716,498)
+
+ Other operating expenses - indirect
+	 	 (52,166,389)
+	 (40,089,320)
+
+ Profit from operations
+	 	 220,473,087
+	 119,069,188
+
+ Finance income
+	 10.1 |
+10.2 |
+	 29,739
+	 33,978
+
+ Finance expense
+	 	 (95,994,548)
+	 (26,919,037)
+
+ Net finance expense
+	 10
+	 (95,964,809)
+	 (26,885,059)
+
+ Profit before taxation
+	 	 124,508,278
+	 92,184,129
+
+ Income tax expense
+	 11
+	 (77,023,352)
+	 (12,731,146)
+
+ Profit for the year
+	 	 47,484,926
+	 79,452,983
+
+ Earnings per share - Basic (Rs.)
+	 12
+	 	 56.75
+

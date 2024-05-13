@@ -1,0 +1,85 @@
+ Total assets
+	 	 1,272,448,418
+	 1,226,985,811
+
+ EQUITY AND LIABILITIES
+	 	 	 
+ Equity
+	 	 	 
+ Stated capital
+	 20
+	 14,000,000
+	 14,000,000
+
+ Fair value reserves
+	 	 1,157
+	 913
+
+ Retained earnings
+	 	 764,894,106
+	 721,027,212
+
+ ‘Total equity
+	 	 778,895,263
+	 735,028,125
+
+ Non-current liabilities
+	 	 	 
+ Employee benefits
+	 21
+	 30,688,690
+	 25,937,012
+
+ Deferred tax liabilities
+	 22
+	 129,328,969
+	 67,570,076
+
+ Lease liabilities
+	 24
+	 	 6,172,296
+
+ 	 	 160,017,659
+	 99,679,384
+
+ Current liabilities
+	 	 	 
+ Interest-bearing loans and borrowings
+	 23
+	 	 25,989,957
+
+ Lease liabilities
+	 24
+	 6,739,335
+	 6,370,650
+
+ Current tax payable
+	 11.4
+	 	 6,066,192
+
+ Loans due to parent company
+	 25
+	 90,000,000
+	 90,000,000
+
+ Trade and other payables
+	 26
+	 72,515,023
+	 29,321,692
+
+ Bank overdrafts and other short-term liabilities
+	 19
+	 164,281,138
+333,535,496
+	 234,529,811
+
+ 	 	 	 392,278,302
+
+ Total liabilities
+	 	 493,553,155 _
+	 491,957,686
+
+ Total equity and liabilities
+	 	 1,272,448,418
+	 1,226,985,811
+

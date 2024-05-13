@@ -1,0 +1,113 @@
+/* styles.css */
+
+/* Set the background image for the main content area */
+[data-testid="stAppViewContainer"] > .main {
+    background-size: cover;
+}
+
+/* Set the background image for the sidebar */
+[data-testid="stSidebar"] {
+    background-size: cover;
+}
+
+/* Style for h1 elements within stMarkdown */
+[data-testid="stMarkdown"] h1 {
+    margin-top: 0 !important;
+    padding-top: 0rem;
+}
+
+/* Style for p elements within stMarkdown */
+[data-testid="stMarkdown"] p {
+    text-align: center;
+    color: #666565;
+    padding-top: 5rem;
+}
+
+/* Style for footer within stMarkdown */
+[data-testid="stMarkdown"] footer {
+    background: rgba(0,0,0,0);
+}
+
+/* Style for stHeader */
+[data-testid="stHeader"] {
+    background: rgba(0,0,0,0);
+}
+
+/* Style for stFooter */
+[data-testid="stFooter"] {
+    background: rgba(f,f,f,f);
+}
+
+/* Style for stAppViewBlockContainer with class e1nzilvr5 */
+[data-testid="stAppViewBlockContainer"].e1nzilvr5 {
+    padding-top: 1rem;
+}
+
+/* Style for StyledLinkIconContainer */
+[data-testid="StyledLinkIconContainer"] {
+    font-size: calc(1.5rem + 1.8vw);
+    font-weight: bold;
+    text-align: center;
+    padding: 0rem 0px 1rem;
+}
+
+/* Style for StyledLinkIconContainer with class st-emotion-cache-10trblm */
+[data-testid="StyledLinkIconContainer"].st-emotion-cache-10trblm {
+    padding-top: 1px;
+}
+
+/* Style for baseButton-secondary */
+[data-testid="baseButton-secondary"] {
+    background-color: rgb(0,110,185);
+    border-color: rgb(0,110,185);
+    font-family: Source Sans Pro;
+    font-weight: 300;
+}
+
+/* Style for baseButton-secondary on hover */
+[data-testid="baseButton-secondary"]:hover {
+    border-color: rgb(74, 184, 71);
+    color: rgb(255, 255, 255);
+}
+
+/* Style for baseButton-secondary on focus when not active */
+[data-testid="baseButton-secondary"]:focus:not(:active) {
+    border-color: #4ab847;
+    color: #ffffff;
+}
+
+/* Style for baseButton-secondary on active */
+[data-testid="baseButton-secondary"]:active {
+    border-color: #4ab847;
+    background-color: #4ab847;
+}
+
+/* Style for baseButton-secondary on focus-visible */
+[data-testid="baseButton-secondary"]:focus-visible {
+    box-shadow: #4ab847;
+}
+
+/* Style for stFileUploaderDropzoneInstructions */
+[data-testid="stFileUploaderDropzoneInstructions"] {
+    color: #4ab847;
+}
+
+/* Style for reportview-container .main .block-container */
+.reportview-container .main .block-container {
+    flex: 0 1 30%;
+}
+
+/* Style for stWidgetLabel */
+[data-testid="stWidgetLabel"] {
+    font-family: Segoe UI;
+}
+
+/* Style for st-cb */
+st-cb {
+    border-bottom-color: rgb(0 90 241);
+}
+
+/* Style for st-ca */
+st-ca {
+    border-top-color: rgb(90 103 243);
+}
