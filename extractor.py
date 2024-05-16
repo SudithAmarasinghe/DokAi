@@ -73,6 +73,8 @@ class ExtractorGUI:
                                 [data-testid="stAppViewContainer"] > .main {{
                                 background-image: url("data:image/png;base64,{img}");
                                 background-size: cover;
+                                background-repeat: no-repeat;
+                                background-attachment: fixed;
                                 }}
                                 [data-testid="stSidebar"]{{
                                 background-image: url("data:image/png;base64,{himg}");
