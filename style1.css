@@ -3,6 +3,8 @@
 /* Set the background image for the main content area */
 [data-testid="stAppViewContainer"] > .main {
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /* Set the background image for the sidebar */
