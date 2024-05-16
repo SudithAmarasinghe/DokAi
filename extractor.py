@@ -74,7 +74,7 @@ class ExtractorGUI:
                                 background-image: url("data:image/png;base64,{img}");
                                 background-size: auto;
                                 background-repeat: no-repeat;
-                                background-attachment: fixed;
+                                background-attachment: scroll;
                                 }}
                                 [data-testid="stSidebar"]{{
                                 background-image: url("data:image/png;base64,{himg}");
