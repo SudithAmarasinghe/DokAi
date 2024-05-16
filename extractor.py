@@ -72,7 +72,7 @@ class ExtractorGUI:
         page_bg_img = f"""<style>{css}
                                 [data-testid="stAppViewContainer"] > .main {{
                                 background-image: url("data:image/png;base64,{img}");
-                                background-size: cover;
+                                background-size: auto;
                                 background-repeat: no-repeat;
                                 background-attachment: fixed;
                                 }}
